@@ -1,6 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&duration=3500&pause=5000&color=12AE05&background=21283000&width=435&separator=%3D&lines=print(%22Hello+World!+I+am+Marc+Justin!%22)%3Dprintf(%22Hello+World!+I+am+Marc+Justin!%22);%3DSystem.out.println(%22Hello+World!+I+am+Marc+Justin!%22);%3Dcout+%3C%3C+%22%22Hello+World!+I+am+Marc+Justin!%22;" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&duration=3500&pause=5000&color=12AE05&background=21283000&center=true&width=700&separator=%3D&lines=print(%22Hello+World!+I+am+Marc+Justin!%22)%3Dprintf(%22Hello+World!+I+am+Marc+Justin!%22);%3DSystem.out.println(%22Hello+World!+I+am+Marc+Justin!%22);%3Dcout+%3C%3C+%22%22Hello+World!+I+am+Marc+Justin!%22;" alt="Typing SVG" /></a>
 
 <p align="center">
   Welcome to my GitHub profile. This profile exists solely for academic works.
