@@ -8,7 +8,7 @@
 
 <h3 align="center">💻 Fields I know and still improving on:</h3>
 
-<div align="center", style="max-width: 300px; margin: auto;"> <img src="https://skillicons.dev/icons?i=python,java,mysql,godot,cpp,arduino,html,css"/> </div>
+<div align="center", style="max-width: 300px; margin: auto;"> <img src="https://skillicons.dev/icons?i=python,java,mysql,godot,cpp,arduino,html,css&perline=4"/> </div>
 <hr>
 <h3 align="center">💡 About Me: </h3>
 <p align="center">
