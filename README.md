@@ -15,7 +15,6 @@
 </p>
 
 <p align="center">
-  <a href="#-things-ive-been-building">Projects</a> ·
   <a href="https://github.com/mprestado/mprestado/blob/main/PROJECTS.md">Project directory</a> ·
   <a href="mailto:maprestado@my.cspc.edu.ph">Say hello</a>
 </p>
@@ -31,8 +30,7 @@
 
 <p align="center">
   I’m a BS Computer Science student at <b>Camarines Sur Polytechnic Colleges</b> in the Philippines.<br />
-  My projects range from database-backed web applications to desktop tools,<br />
-  with plenty of coursework and experiments along the way.
+  Exploring web apps, desktop tools, and whatever catches my curiosity.
 </p>
 
 <hr />
@@ -55,66 +53,7 @@
 </p>
 
 <p align="center">
-  <sub>Some familiar faces, some ongoing learning. The projects below show where they show up.</sub>
-</p>
-
-<hr />
-
-<h2 align="center">🛠️ Things I’ve been building</h2>
-
-<p align="center">
-  A few projects worth opening a new tab for.
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🗂️ ASOG TBI Dataset Repository</h3>
-      <p>Dataset discovery, submissions, technical and ethics review, and publication workflows.</p>
-      <p><b>PHP · CodeIgniter 4 · MySQL</b></p>
-      <p>
-        <a href="https://github.com/mprestado/asogtbi-dataset-repository">Repository</a> ·
-        <a href="https://github.com/mprestado/asogtbi-dataset-repository/blob/main/docs/USER_MANUAL.md">User manual</a>
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🌐 ASOG TBI Website</h3>
-      <p>Institutional website audit fixes and enhancements with the 2026 DOST-SEI PTP scholar-trainee team.</p>
-      <p><b>PHP · CodeIgniter 4 · MySQL</b></p>
-      <p><a href="https://github.com/mprestado/asog-website-v2">Repository</a></p>
-      <p><sub>Collaborative work · Team development fork</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>🎬 Video Merger &amp; Uploader</h3>
-      <p>Arrange clips, merge with FFmpeg, and upload to YouTube. Fewer repetitive clicks.</p>
-      <p><b>Python · Flet · FFmpeg · Firebase</b></p>
-      <p><a href="https://github.com/mprestado/videomerger_app">Repository &amp; demo</a></p>
-      <p><sub>Collaborative academic project · Listed contributor</sub></p>
-    </td>
-    <td align="center">
-      <h3>📁 Client Documentation System</h3>
-      <p>Client records, services, attachments, requirements checklists, and processing status in one workspace.</p>
-      <p><b>PHP · Laravel · Blade · Tailwind CSS</b></p>
-      <p><a href="https://github.com/mprestado/Documentation_System">Repository</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <h3>🛒 Arngren Plus</h3>
-      <p>An HCI redesign experiment: clearer catalog navigation, product pages, cart, and checkout.</p>
-      <p><b>HTML · Tailwind CSS · JavaScript</b></p>
-      <p><a href="https://github.com/mprestado/arngren-plus">Repository</a></p>
-      <p><sub>Academic frontend prototype</sub></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <br />
-  <a href="https://github.com/mprestado/mprestado/blob/main/PROJECTS.md"><b>📚 More projects, coursework &amp; experiments →</b></a><br />
-  <sub>The directory includes project context, team attribution, and upstream links for forks.</sub>
+  <sub>Some familiar faces, some ongoing learning.</sub>
 </p>
 
 <hr />
