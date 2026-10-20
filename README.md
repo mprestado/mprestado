@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I’m Marc Justin 👋</h1>
+<h1 align="center">Heya, I’m Marc Justin 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -22,7 +22,7 @@
 
 <hr />
 
-<h2 align="center">💡 The human behind the commits</h2>
+<h2 align="center">git commit -m "...</h2>
 
 <p align="center">
   Simple human being. I play video games, explore how to make them,<br />
@@ -37,7 +37,7 @@
 
 <hr />
 
-<h2 align="center">💻 Things I use, learn, and occasionally argue with</h2>
+<h2 align="center">Things I use, learn, and occasionally argue with</h2>
 
 <p align="center">
   <b>Web &amp; data</b><br /><br />
